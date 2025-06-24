@@ -14,5 +14,3 @@ Ideal for interview prep, coding practice, and understanding core string algorit
 * Two pointers
 * Sliding window
 * Hashing
----
-```
